@@ -17,8 +17,8 @@
 ![imahe](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 <a href="https://github.com/KiattisakM/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mahirocoko&show_icons=true&rank_icon=github" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KiattisakM&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/KiattisakM/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirocoko&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiattisakM&layout=compact" />
 </a>
