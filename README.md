@@ -64,7 +64,7 @@
   <a href="mailto:kiattisak.my@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/kiattisakm](https://www.linkedin.com/in/kiattisak-mayong-544b86281/)" target="_blank">
+  <a href="https://www.linkedin.com/in/kiattisak-mayong-544b86281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/kiattisakm" target="_blank">
